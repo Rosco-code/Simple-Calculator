@@ -1,1 +1,1 @@
-Hokay (Pronuncation: Hoe · kay), I'm made a calculator using Python.
+Hokay (Pronuncation: Hoe · kay), I made a calculator using Python.
